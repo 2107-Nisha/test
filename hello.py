@@ -3,3 +3,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print("hello world")
 ... 
 hello world
+>>> a=5
+>>> b=3
+>>> if a>b:
+...     print("a is grater")
+... else:
