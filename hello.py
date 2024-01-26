@@ -1,10 +1,1 @@
-Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> print("hello world")
-... 
-hello world
->>> a=5
->>> b=3
->>> if a>b:
-...     print("a is grater")
-... else:
+print("main")
